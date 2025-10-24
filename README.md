@@ -25,7 +25,7 @@
 
 ## Live Demo
 
-Try TravelAI online: [https://travel-ai-sage.vercel.app/aiplanner](https://travel-ai-sage.vercel.app/aiplanner)  
+Try TravelAI online: [https://travel-ai-sage.vercel.app/aiplanner](https://travel-ai-sage.vercel.app)  
 
 ---
 
