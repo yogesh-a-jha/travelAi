@@ -16,8 +16,9 @@
 ## Tech Stack
 
 - **Frontend:** React  
-- **Backend:** Node.js  
-- **AI Model:** Gemini  
+- **Backend:** Express.js  
+- **AI Model:** Gemini
+- **Database:** MongoDb
 - **Deployment:** Vercel  
 
 ---
